@@ -3,11 +3,11 @@
   <groupId>ua.beengoo.logdo2</groupId>
   <artifactId>logdo2-api</artifactId>
   <versioning>
-    <latest>1.1.6-SUNSHINE.a</latest>
-    <release>1.1.6-SUNSHINE.a</release>
+    <latest>1.1.6-SUNSHINE.b</latest>
+    <release>1.1.6-SUNSHINE.b</release>
     <versions>
-      <version>1.1.6-SUNSHINE.a</version>
+      <version>1.1.6-SUNSHINE.b</version>
     </versions>
-    <lastUpdated>20250904143847</lastUpdated>
+    <lastUpdated>20250904153544</lastUpdated>
   </versioning>
 </metadata>
