@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "ua.beengoo.logdo2",
+    "module": "logdo2-api",
+    "version": "2.0.1-MOONLIGHT",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "logdo2-api-2.0.1-MOONLIGHT.jar",
+          "url": "logdo2-api-2.0.1-MOONLIGHT.jar",
+          "size": 44797,
+          "sha512": "344cc9a7858740b8501c34812b0033e2c1fb42fded1bbc3480483f6f4e89be0ddfdedd272b5dc99902f02f86cc00d39d6253a4a8f254d999db9e5e425ef44a72",
+          "sha256": "2aa8131caf6a9fc520d950a1224126db5cb77f0871f212c880ce6d9e03885601",
+          "sha1": "74997567bb232e47598264e394625f8ae337b952",
+          "md5": "e0c2021da4ed8c47c48d466a3420db2e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "logdo2-api-2.0.1-MOONLIGHT.jar",
+          "url": "logdo2-api-2.0.1-MOONLIGHT.jar",
+          "size": 44797,
+          "sha512": "344cc9a7858740b8501c34812b0033e2c1fb42fded1bbc3480483f6f4e89be0ddfdedd272b5dc99902f02f86cc00d39d6253a4a8f254d999db9e5e425ef44a72",
+          "sha256": "2aa8131caf6a9fc520d950a1224126db5cb77f0871f212c880ce6d9e03885601",
+          "sha1": "74997567bb232e47598264e394625f8ae337b952",
+          "md5": "e0c2021da4ed8c47c48d466a3420db2e"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "logdo2-api-2.0.1-MOONLIGHT-sources.jar",
+          "url": "logdo2-api-2.0.1-MOONLIGHT-sources.jar",
+          "size": 22099,
+          "sha512": "214d8027074f0c98b573642276e94b7be09167316f9c161a90b21db25c02af1b33f2707c8f85d856d8fcf2fb1c74bae875b3ca6d1bae98eea6424a48bd6ce0ec",
+          "sha256": "8b7ecae4f374b5ec8ae2e1bf95eafdaf459cf5b9615a22eed0f6f3c2139dbe7d",
+          "sha1": "a8b23d146ba0495f5d9ef45fb0e8f01356070f9f",
+          "md5": "141d7bb212fad1457066d9b769b69321"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "logdo2-api-2.0.1-MOONLIGHT-javadoc.jar",
+          "url": "logdo2-api-2.0.1-MOONLIGHT-javadoc.jar",
+          "size": 303036,
+          "sha512": "e1ed9e80eedf7aba4b4043ba5b3eb4042882dd1d6459e119ecd82964116cec16f093232c59d9d0d7bb71b125700789eb420db488e2d8919b532a3351228d19ad",
+          "sha256": "21cf2b17269a714a170b706daa2a86d94392f7943fbbe783ef33c9363efc3d39",
+          "sha1": "2934226c5280e35804580757e69e202be8d5adf5",
+          "md5": "ff8dfdcdf8f470aecbd98ebd2b7ce6d6"
+        }
+      ]
+    }
+  ]
+}
