@@ -3,11 +3,11 @@
   <groupId>ua.beengoo.logdo2</groupId>
   <artifactId>logdo2-api</artifactId>
   <versioning>
-    <latest>2.0.1-MOONLIGHT</latest>
-    <release>2.0.1-MOONLIGHT</release>
+    <latest>2.1.1-MOONLIGHT</latest>
+    <release>2.1.1-MOONLIGHT</release>
     <versions>
-      <version>2.0.1-MOONLIGHT</version>
+      <version>2.1.1-MOONLIGHT</version>
     </versions>
-    <lastUpdated>20251217193047</lastUpdated>
+    <lastUpdated>20260114153623</lastUpdated>
   </versioning>
 </metadata>
