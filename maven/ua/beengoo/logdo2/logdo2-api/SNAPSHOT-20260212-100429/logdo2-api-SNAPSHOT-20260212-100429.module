@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "ua.beengoo.logdo2",
+    "module": "logdo2-api",
+    "version": "SNAPSHOT-20260212-100429",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "logdo2-api-SNAPSHOT-20260212-100429.jar",
+          "url": "logdo2-api-SNAPSHOT-20260212-100429.jar",
+          "size": 40606,
+          "sha512": "201843e9e51f1fae317cd01f76996f7a56afa2f353551d9ad58fd4534dd47ba61644be0e69d62b4438a822c53efc4c22ab6cf6841ea97f51d81ae478a7bdceaf",
+          "sha256": "ef569c22f7a66ecff2567cca70cc64c070553519348ef629c0735e19bf92c42b",
+          "sha1": "e7a15b7059813ff3fe7ac5ae1bc597dc13c1ebec",
+          "md5": "5fd63742fd0d19a6493bda688876e366"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "logdo2-api-SNAPSHOT-20260212-100429.jar",
+          "url": "logdo2-api-SNAPSHOT-20260212-100429.jar",
+          "size": 40606,
+          "sha512": "201843e9e51f1fae317cd01f76996f7a56afa2f353551d9ad58fd4534dd47ba61644be0e69d62b4438a822c53efc4c22ab6cf6841ea97f51d81ae478a7bdceaf",
+          "sha256": "ef569c22f7a66ecff2567cca70cc64c070553519348ef629c0735e19bf92c42b",
+          "sha1": "e7a15b7059813ff3fe7ac5ae1bc597dc13c1ebec",
+          "md5": "5fd63742fd0d19a6493bda688876e366"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "logdo2-api-SNAPSHOT-20260212-100429-sources.jar",
+          "url": "logdo2-api-SNAPSHOT-20260212-100429-sources.jar",
+          "size": 23915,
+          "sha512": "d32a4d41e39716dedb0028e0960ce55982b0e12e5c42a2920c973ffef8121e12653794971db3b1ca2b17b04669feb1a847dca18d2f229871093f712714f0541d",
+          "sha256": "c9e0924608a09cafce64578aad65725316ef4ed5f619eb044b95aa9da938c0a6",
+          "sha1": "2335b021ea0da7014a97737c30a115ec24880c60",
+          "md5": "78435e904844ad40b350f47ca7759161"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "logdo2-api-SNAPSHOT-20260212-100429-javadoc.jar",
+          "url": "logdo2-api-SNAPSHOT-20260212-100429-javadoc.jar",
+          "size": 275843,
+          "sha512": "5759391a818a5aeec1d2c0b3907685fb634a9b8f9def63979dbce0489f1a9d4295b352abf3af3a6c507a9f98fcb9a4cd4ad86d96cdd8090a2cb76d021b055c5a",
+          "sha256": "7300954595a83c35406764c956daea651cca2b03dc271f6a6d085ee5be7f968b",
+          "sha1": "c040c6fea638c3d75f65e5307e159938c77c2b26",
+          "md5": "335656c296e9c41469e63ee68b9f00d9"
+        }
+      ]
+    }
+  ]
+}

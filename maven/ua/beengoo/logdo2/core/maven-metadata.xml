@@ -3,11 +3,11 @@
   <groupId>ua.beengoo.logdo2</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <latest>SNAPSHOT-20260212-093427</latest>
-    <release>SNAPSHOT-20260212-093427</release>
+    <latest>SNAPSHOT-20260212-100429</latest>
+    <release>SNAPSHOT-20260212-100429</release>
     <versions>
-      <version>SNAPSHOT-20260212-093427</version>
+      <version>SNAPSHOT-20260212-100429</version>
     </versions>
-    <lastUpdated>20260212093535</lastUpdated>
+    <lastUpdated>20260212100535</lastUpdated>
   </versioning>
 </metadata>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- This module was also published with a richer model, Gradle metadata,  -->
+  <!-- which should be used instead. Do not delete the following line which  -->
+  <!-- is to indicate to Gradle or any Gradle module metadata file consumer  -->
+  <!-- that they should prefer consuming it instead. -->
+  <!-- do_not_remove: published-with-gradle-metadata -->
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ua.beengoo.logdo2</groupId>
+  <artifactId>logdo2-api</artifactId>
+  <version>SNAPSHOT-20260212-100429</version>
+  <name>LogDO2 API</name>
+  <description>Public API for LogDO2 plugin.</description>
+  <url>https://github.com/Pinecraft-Project/LogDO2</url>
+  <licenses>
+    <license>
+      <name>Mozilla Public License 2.0</name>
+      <url>https://www.mozilla.org/en-US/MPL/2.0/</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>beengoo</id>
+      <name>Beengoo</name>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:https://github.com/Pinecraft-Project/LogDO2.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/Pinecraft-Project/LogDO2.git</developerConnection>
+    <url>https://github.com/Pinecraft-Project/LogDO2.git</url>
+  </scm>
+</project>
